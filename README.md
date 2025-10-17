@@ -1,6 +1,6 @@
 # Data Analysis with Power BI Portfolio
 
-<img width="600" height="600" alt="power-bi-microsoft-logo-png_seeklogo-400711" src="https://github.com/user-attachments/assets/5b23db78-0316-4b13-8617-f7afecf99678" />
+<img width="150" height="150" alt="power-bi-microsoft-logo-png_seeklogo-400711" src="https://github.com/user-attachments/assets/5b23db78-0316-4b13-8617-f7afecf99678" />
 
 Welcome to my portfolio repository for the **Udacity Data Analysis with Power BI Nanodegree**. This project collection demonstrates my skills in data cleaning, transformation, visualization, and storytelling using Microsoft Power BI. Through three structured courses, I analyzed diverse datasets to create interactive dashboards and derive actionable insights.
 
@@ -23,7 +23,7 @@ The repository is organized into three folders, each corresponding to one course
 - **Best Practices**: Performance optimization, accessibility, and deployment to Power BI Service.
 
 ## How to Explore
-1. Clone the repository: `git clone https://github.com/yourusername/power-bi-portfolio.git` or [download as ZIP](https://github.com/yourusername/power-bi-portfolio/archive/refs/heads/main.zip).
+1. Clone the repository: `https://github.com/MeloRods/Udacity-Data-Analysis-with-Power-BI.git` or [download as ZIP](https://github.com/MeloRods/Udacity-Data-Analysis-with-Power-BI/archive/refs/heads/main.zip).
 2. Open each `.pbix` file in Power BI Desktop (free download from Microsoft).
 3. Refresh data connections if needed to view live interactions.
 4. Check the `docs/` subfolder in each course for detailed walkthroughs and insights.
