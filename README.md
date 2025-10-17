@@ -38,5 +38,3 @@ Email: Rodrigopmelo@hotmail.com
 
 
 Last updated: October 17, 2025
-
-This README is Markdown-formatted for GitHub rendering (tables, links, etc.). Replace placeholders like yourusername, folder names, or links with your actual details. If the three courses have specific names (e.g., "Project 1: Sales Dashboard"), let me know for tweaks! If you need help with folder setup or more sections, just ask.
